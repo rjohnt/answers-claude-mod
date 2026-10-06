@@ -1,0 +1,1 @@
+{ "name": "answers", "version": "0.1.0", "description": "Answers-only view of the main thread: each reply filed under the prompt it answers, latest headline + open ask pinned above the prompt", "types": "./types/index.d.ts" }

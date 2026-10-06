@@ -1,0 +1,11 @@
+{
+  "name": "answers-claude-mod",
+  "owner": { "name": "Ryan Timmons" },
+  "plugins": [
+    {
+      "name": "answers",
+      "source": "./",
+      "description": "Answers-only view of the main thread: each reply filed under the prompt it answers, latest headline + open ask pinned above the prompt"
+    }
+  ]
+}
